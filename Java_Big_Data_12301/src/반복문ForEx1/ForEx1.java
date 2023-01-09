@@ -5,6 +5,7 @@ import java.util.Scanner;
 // for 반복문 : for(초기식; 조건식; 증감식) {반복 수행 구간}
 public class ForEx1 {
     public static void main(String[] args) {
+/*
 //  재귀? 호출
         Scanner sc = new Scanner(System.in);
         System.out.print("정수를 입력 하세요 : ");
@@ -16,10 +17,12 @@ public class ForEx1 {
         if(n ==1) return 1;
         return n + recursiveFunc(n -1);
 
+ */
 
 
 
-/*
+
+
         Scanner sc = new Scanner(System.in);
         System.out.print("정수를 입력 하세요 : ");
         int number = sc.nextInt();
@@ -28,7 +31,7 @@ public class ForEx1 {
             sum += i;
         }
         System.out.println("정수의 합은 : " + sum);
-
+/*
 
     while 문으로 10에서 -1 씩 계속 더함
         int number = sc.nextInt();
