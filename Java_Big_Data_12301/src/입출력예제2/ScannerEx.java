@@ -4,7 +4,7 @@ import java.io.IOException;
 // import java.util.Scanner; // 두번째로 많이 사용되는 자바 API(import해야함)
 
 // 콘솔 입력에 대해서(화면 입력기에서 입력 받는 것)
-// System.in.rea() : 키보드의 입력을 ASCII 코드 값으로 읽어 들임
+// System.in.read() : 키보드의 입력을 ASCII 코드 값으로 읽어 들임
 // Scanner 입력 : 키보드의 입력을 원하는 데이터 타입으로 반환 받음
 public class ScannerEx {
 /*  public static void main(String[] args) throws IOException {

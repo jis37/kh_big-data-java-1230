@@ -18,11 +18,6 @@ public class ForEx1 {
         return n + recursiveFunc(n -1);
 
  */
-
-
-
-
-
         Scanner sc = new Scanner(System.in);
         System.out.print("정수를 입력 하세요 : ");
         int number = sc.nextInt();
