@@ -16,7 +16,7 @@ public class StringType {
         System.out.println(a == c); // 문자열의 내용을 비교하는 것이 아닌 문자열의 참조, 즉 주소를 비교하는 것
         String d = "Hello Java Java";
 // indexOf() : 문자열에 특정 문자 혹은 문자열이 시작되는 인넥스를 리턴
-        System.out.println(d.indexOf("Java"));
+        System.out.println(d.indexOf("Java")+"w");
 // contains() : 문자열에서 특정 문자열의 포함 여부를 리턴(포함 되어 있으면 true)
         System.out.println(d.contains("HELLO")); // 대소문자 구분 함
 // charAt() : 문자열에서 특정 위치의 문자를 리턴 함
