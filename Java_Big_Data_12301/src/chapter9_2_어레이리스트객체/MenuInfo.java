@@ -1,4 +1,4 @@
-package chapter9_어레이리스트객체;
+package chapter9_2_어레이리스트객체;
 
 public class MenuInfo {
     String name;    // 메뉴의 이름

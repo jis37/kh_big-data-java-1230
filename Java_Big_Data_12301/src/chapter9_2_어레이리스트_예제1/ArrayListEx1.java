@@ -1,7 +1,6 @@
-package chapter9_어레이리스트_예제1;
+package chapter9_2_어레이리스트_예제1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 

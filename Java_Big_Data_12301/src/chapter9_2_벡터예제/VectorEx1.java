@@ -1,4 +1,4 @@
-package chapter9_벡터예제;
+package chapter9_2_벡터예제;
 
 import java.util.List;
 import java.util.Vector;

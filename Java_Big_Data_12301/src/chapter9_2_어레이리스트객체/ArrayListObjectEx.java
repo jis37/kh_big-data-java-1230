@@ -1,4 +1,4 @@
-package chapter9_어레이리스트객체;
+package chapter9_2_어레이리스트객체;
 
 import java.util.ArrayList;
 import java.util.List;
