@@ -19,6 +19,5 @@ public class StreamEx3 {
         IntStream stream = IntStream.rangeClosed(1, 100); // 범위 내에 정수를 만듦
         int sum = stream.sum();
         System.out.println("합계 : " + sum);
-
     }
 }
