@@ -11,8 +11,8 @@ public class Ex3 {
         Scanner sc = new Scanner(System.in);
         System.out.print("정수 입력 : ");
         int num = sc.nextInt();
-        for(int i = 0; i < num * num; i++){
-            System.out.printf("%4d",i);
+        for(int i = 1; i <= num * num; i++){
+            System.out.printf("%4d", i);
             if(i % num == 0) System.out.println();
         }
     }
